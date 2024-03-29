@@ -1,0 +1,4 @@
+com.android.samples.donuttracker.test.app-androidTest-0 /Users/alvindizon/dev/personal/architecture-components-samples/MADSkillsNavigationSample/app/build/generated/res/resValues/androidTest/debug
+com.android.samples.donuttracker.test.app-mergeDebugAndroidTestResources-1 /Users/alvindizon/dev/personal/architecture-components-samples/MADSkillsNavigationSample/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.android.samples.donuttracker.test.app-mergeDebugAndroidTestResources-2 /Users/alvindizon/dev/personal/architecture-components-samples/MADSkillsNavigationSample/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.android.samples.donuttracker.test.app-debugAndroidTest-3 /Users/alvindizon/dev/personal/architecture-components-samples/MADSkillsNavigationSample/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

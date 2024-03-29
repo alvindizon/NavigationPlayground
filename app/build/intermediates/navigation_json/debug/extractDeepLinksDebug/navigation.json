@@ -1,0 +1,39 @@
+[
+  {
+    "name": "nav_dialog_entry",
+    "navigationXmlIds": [],
+    "deepLinks": []
+  },
+  {
+    "name": "nav_graph",
+    "navigationXmlIds": [
+      "nav_dialog_entry",
+      "nav_bagel"
+    ],
+    "deepLinks": [
+      {
+        "schemes": [
+          "myapp"
+        ],
+        "host": "navdonutcreator.com",
+        "port": -1,
+        "path": "/donutcreator",
+        "sourceFilePosition": {
+          "mSourceFile": {
+            "mDescription": "nav_graph.xml"
+          },
+          "mSourcePosition": {
+            "mStartLine": 36,
+            "mStartColumn": 8,
+            "mStartOffset": 1525,
+            "mEndLine": 36,
+            "mEndColumn": 71,
+            "mEndOffset": 1588
+          }
+        },
+        "isAutoVerify": false,
+        "action": "android.intent.action.VIEW"
+      }
+    ]
+  }
+]

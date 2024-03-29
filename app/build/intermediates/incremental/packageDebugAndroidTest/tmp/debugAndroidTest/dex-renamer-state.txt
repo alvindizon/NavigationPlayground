@@ -1,0 +1,4 @@
+#Tue Mar 19 16:06:39 PST 2024
+base.0=/Users/alvindizon/dev/personal/architecture-components-samples/MADSkillsNavigationSample/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex

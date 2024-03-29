@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "com.android.samples.donuttracker.app-mergeDebugResources-51:/layout/fragment_gyoza.xml",
+        "source": "com.android.samples.donuttracker.app-main-54:/layout/fragment_gyoza.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-mergeDebugResources-51:/layout/donut_list.xml",
+        "source": "com.android.samples.donuttracker.app-main-54:/layout/donut_list.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-mergeDebugResources-51:/layout/activity_main.xml",
+        "source": "com.android.samples.donuttracker.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-mergeDebugResources-51:/layout/donut_entry_dialog.xml",
+        "source": "com.android.samples.donuttracker.app-main-54:/layout/donut_entry_dialog.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-mergeDebugResources-51:/layout/donut_item.xml",
+        "source": "com.android.samples.donuttracker.app-main-54:/layout/donut_item.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-mergeDebugResources-51:/layout/content_main.xml",
+        "source": "com.android.samples.donuttracker.app-main-54:/layout/content_main.xml"
+    }
+]

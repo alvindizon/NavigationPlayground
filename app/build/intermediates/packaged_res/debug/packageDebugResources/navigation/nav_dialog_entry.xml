@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_dialog_entry"
+    app:startDestination="@id/donutEntryDialogFragment2">
+
+    <fragment
+        android:id="@+id/donutEntryDialogFragment2"
+        android:name="com.android.samples.donuttracker.DonutEntryDialogFragment"
+        android:label="DonutEntryDialogFragment">
+        <argument
+            android:name="itemId"
+            app:argType="long"
+            android:defaultValue="-1L" />
+    </fragment>
+</navigation>

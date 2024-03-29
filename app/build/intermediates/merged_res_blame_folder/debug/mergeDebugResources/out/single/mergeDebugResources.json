@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/navigation_nav_graph.xml.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/navigation/nav_graph.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/navigation_nav_dialog_entry.xml.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/navigation/nav_dialog_entry.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/layout_donut_list.xml.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/layout/donut_list.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/xml-v25_shortcuts.xml.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/xml-v25/shortcuts.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/drawable-anydpi-v24_donut_with_sprinkles.xml.flat",
+        "source": "com.android.samples.donuttracker.app-pngs-48:/drawable-anydpi-v24/donut_with_sprinkles.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/drawable-mdpi_donut_with_sprinkles.png.flat",
+        "source": "com.android.samples.donuttracker.app-pngs-48:/drawable-mdpi/donut_with_sprinkles.png"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/drawable-xhdpi_donut_with_sprinkles.png.flat",
+        "source": "com.android.samples.donuttracker.app-pngs-48:/drawable-xhdpi/donut_with_sprinkles.png"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.android.samples.donuttracker.app-pngs-48:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/layout_fragment_gyoza.xml.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/layout/fragment_gyoza.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/menu_menu_main.xml.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/menu/menu_main.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/layout_donut_item.xml.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/layout/donut_item.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/layout_donut_entry_dialog.xml.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/layout/donut_entry_dialog.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/drawable-hdpi_donut_with_sprinkles.png.flat",
+        "source": "com.android.samples.donuttracker.app-pngs-48:/drawable-hdpi/donut_with_sprinkles.png"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/xml_shortcuts.xml.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/xml/shortcuts.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/drawable-xxhdpi_donut_with_sprinkles.png.flat",
+        "source": "com.android.samples.donuttracker.app-pngs-48:/drawable-xxhdpi/donut_with_sprinkles.png"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/drawable-ldpi_donut_with_sprinkles.png.flat",
+        "source": "com.android.samples.donuttracker.app-pngs-48:/drawable-ldpi/donut_with_sprinkles.png"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/layout_content_main.xml.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/layout/content_main.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/layout_activity_main.xml.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/drawable-xxxhdpi_donut_with_sprinkles.png.flat",
+        "source": "com.android.samples.donuttracker.app-pngs-48:/drawable-xxxhdpi/donut_with_sprinkles.png"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/drawable_ic_clear_24px.xml.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/drawable/ic_clear_24px.xml"
+    },
+    {
+        "merged": "com.android.samples.donuttracker.app-debug-52:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.android.samples.donuttracker.app-main-54:/mipmap-hdpi/ic_launcher_round.png"
+    }
+]
